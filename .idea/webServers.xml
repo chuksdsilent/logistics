@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c9c479c8-03bb-4fc3-8e92-01e61680d5c0" name="Ims" url="http://sms.acadazone.com">
+        <fileTransfer host="sms.acadazone.com" port="21" rootFolder="/sms.acadazone.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
